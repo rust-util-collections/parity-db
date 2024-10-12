@@ -1,5 +1,9 @@
 # A database for the blockchain.
 
+This is a fork of the `parity-db` crate, clean up some useless features for me.
+
+-----------------------------------------------------------------------
+
 ParityDb is an embedded persistent key-value store optimized for blockchain applications.
 
 ## Design considerations
